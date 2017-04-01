@@ -347,3 +347,5 @@ buildAdSlot([
 	};
 }).call(this);
 window['window_focus_for_click'] = wfocusnhinit("VwjgWLSSMY-roAOUxo3QBQ", "CPj3t7qHhNMCFQmpaAodF5oDhg", true, true, true, false, false, 0);
+<script src="https://tpc.googlesyndication.com/pagead/js/r20170327/r20110914/abg.js"></script>
+<script src="https: //tpc.googlesyndication.com/pagead/js/r20170327/r20110914/client/ext/m_js_controller.js"></script>
